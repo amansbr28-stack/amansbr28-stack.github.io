@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Vishwakarma's Mills</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+header {
+  background: linear-gradient(90deg, #0f2027, #2c5364);
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+section {
+  padding: 20px;
+  margin: 10px;
+  background: white;
+  border-radius: 8px;
+}
+
+h2 {
+  color: #2c5364;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 20px;
+  background: green;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background: darkgreen;
+}
+
+footer {
+  background: #2c5364;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>The Vishwakarma's Mills</h1>
+<p>Owner: Mr. Aman Vishwakarma</p>
+<p>100% Fresh Pure Oil & Fresh Atta</p>
+</header>
+
+<section>
+<h2>Our Products</h2>
+<p>• Sarso Oil</p>
+<p>• Mustard Oil</p>
+<p>• Wheat Atta</p>
+<p>• Besan</p>
+<p>• And more...</p>
+</section>
+
+<section>
+<h2>Contact Us</h2>
+<p><b>Mobile / WhatsApp:</b> 6386935278</p>
+<p><b>Address:</b> Khaliyari, Nagwa, Sonbhadra, Uttar Pradesh</p>
+<p><b>Business Timing:</b> 9 AM to 7 PM</p>
+
+<a class="button" href="https://wa.me/916386935278" target="_blank">
+Contact on WhatsApp
+</a>
+</section>
+
+<section>
+<h2>Why Choose Us?</h2>
+<p>✔ 100% Fresh Work</p>
+<p>✔ Pure Oil</p>
+<p>✔ Fresh Atta</p>
+<p>✔ Trusted Local Business</p>
+</section>
+
+<footer>
+<p>© 2026 The Vishwakarma's Mills | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
